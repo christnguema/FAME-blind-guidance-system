@@ -6922,7 +6922,7 @@
         }
       }
     },
-    "net9.0-android35.0/iossimulator-x64": {
+    "net9.0-android35.0/ios-arm64": {
       "GoogleGson/2.13.0.1": {
         "type": "package",
         "dependencies": {
@@ -15088,7 +15088,7 @@
         }
       }
     },
-    "net9.0-ios26.0/iossimulator-x64": {
+    "net9.0-ios26.0/ios-arm64": {
       "Microsoft.Extensions.Configuration/9.0.8": {
         "type": "package",
         "dependencies": {
@@ -17578,7 +17578,7 @@
         }
       }
     },
-    "net9.0-maccatalyst26.0/iossimulator-x64": {
+    "net9.0-maccatalyst26.0/ios-arm64": {
       "Microsoft.Extensions.Configuration/9.0.8": {
         "type": "package",
         "dependencies": {
@@ -20694,7 +20694,7 @@
         }
       }
     },
-    "net9.0-windows10.0.19041/iossimulator-x64": {
+    "net9.0-windows10.0.19041/ios-arm64": {
       "Microsoft.Extensions.Configuration/9.0.8": {
         "type": "package",
         "dependencies": {
@@ -26750,7 +26750,7 @@
       "android-x64": {
         "#import": []
       },
-      "iossimulator-x64": {
+      "ios-arm64": {
         "#import": []
       },
       "maccatalyst-x64": {
