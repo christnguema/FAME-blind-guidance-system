@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlindAssistant")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+35dbf8069556390a64ad7f3b7b7e1c793f4609b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+bd3d2e1cbbb2e39df2032bb440bb1de063b90212")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlindAssistant")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlindAssistant")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
